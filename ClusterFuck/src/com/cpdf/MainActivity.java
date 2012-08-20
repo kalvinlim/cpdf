@@ -1,4 +1,4 @@
-package com.example.clusterfuck;
+package com.cpdf;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
