@@ -26,7 +26,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
-import com.example.clusterfuck.R;
+
 
 
 public class MainActivity extends Activity {
