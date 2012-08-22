@@ -1,4 +1,4 @@
-clusterfuck
+Repo moved to https://github.com/TooEZ/cpdf
 ===========
-
-1st master repo
+CPDF: an Android PDF creation/conversion tool.
+1st master repo (this repo is deprecated)
